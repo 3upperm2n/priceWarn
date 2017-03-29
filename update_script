@@ -1,0 +1,7 @@
+sudo cp leiming_stockprice.sh /etc/init.d/
+sudo update-rc.d leiming_stockprice.sh defaults
+
+
+#sudo /etc/init.d/leiming_stockprice.sh start
+#sudo /etc/init.d/leiming_stockprice.sh status
+#sudo /etc/init.d/leiming_stockprice.sh stop
